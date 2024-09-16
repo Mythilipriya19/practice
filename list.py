@@ -19,3 +19,5 @@ a=["priya","mythili","aruna","priya","moorthy"]
     #print(a)
 #a.sort()  ---sort
     #print(a)
+#for i in a:
+    #print(a)  -- for loop
